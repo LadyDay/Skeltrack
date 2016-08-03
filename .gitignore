@@ -49,4 +49,5 @@ test-driver
 tests/.deps/
 tests/Makefile
 tests/Makefile.in
+nbproject/
 
